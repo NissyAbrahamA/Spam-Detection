@@ -1,1 +1,6 @@
 # Spam-Detection
+In this repository a Naive Bayes-based email spam detection model was developed, various EDA and pre-processing steps were carried out to develop the model that acheives high accuracy and roc auc score.
+
+The model is achieving an accuracy of 0.96 and an ROC AUC of 0.99. The model demonstrates strong performance in distinguishing between spam and non-spam emails. The high accuracy score of 0.96 indicates that the model correctly classifies the majority of the emails, with only a small percentage of misclassifications. This showcases the effectiveness of the Naive Bayes algorithm in handling text classification tasks like email spam detection.
+
+Furthermore, the ROC AUC score of 0.99 suggests that the model has excellent discriminatory power. It performs exceptionally well in distinguishing between spam and non-spam emails by minimizing false positive and false negative rates. This indicates that the model's predictions are reliable and consistent.Overall, the developed Naive Bayes-based email spam detection model demonstrates robust performance, offering a highly accurate and efficient solution to identify and filter out unwanted spam emails. This model can be further utilized in email systems or applications to enhance email security and user experience
